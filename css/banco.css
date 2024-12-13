@@ -1,0 +1,62 @@
+.body_banco{
+    background-image: url("../assets/fundo-banco.png");
+}
+
+.titulo_principal_banco{
+    .titulo_principal{
+        font-family: var(--fonte-secundaria);
+        text-align: center;
+        border-radius: 8px;
+        font-size: 1.5rem;
+        border: 3px solid white;
+        color: black;
+    }
+}
+
+.entrada_do_deposito{
+    text-align: center;
+    top: 50%;
+    width: 300px;
+    height: 5px;
+    left: 30%;
+    background-color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
+    font-size: 20px;
+    font-weight: 200;
+    position: absolute;
+    border-radius: 24px;
+    padding: 1em;
+    width: 100%;
+}
+
+.entrada_do_saque{
+    text-align: center;
+    top: 50%;
+    width: 300px;
+    height: 5px;
+    left: 30%;
+    background-color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
+    font-size: 20px;
+    font-weight: 200;
+    position: absolute;
+    border-radius: 24px;
+    padding: 1em;
+    width: 100%;
+}
+
+.entrada_do_extrato{
+    text-align: center;
+    top: 50%;
+    width: 300px;
+    height: 5px;
+    left: 30%;
+    background-color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
+    font-size: 20px;
+    font-weight: 200;
+    position: absolute;
+    border-radius: 24px;
+    padding: 1em;
+    width: 100%;
+}
